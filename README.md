@@ -1,3 +1,3 @@
-### chatApp
+# chatApp
 
-# Simple testing app with django and react
+## Simple testing app with django and react
